@@ -1,2 +1,3 @@
 # basic-input-output-in-C
 This repository is mainly made to check the basic input and output of numerical in C language
+These programs are written in C. To run these programs download any C compiler and run.......
