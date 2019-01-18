@@ -1,0 +1,12 @@
+/*This is the basic input output progrmming for C language. Here we have considered only numerical inputs */
+#include <stdio.h>
+int main ()
+{
+int a;
+printf ("Enter any number : ");
+scanf ("%d", &a");
+
+printf ("You have entered %d\n" a);
+
+return 0;
+}
